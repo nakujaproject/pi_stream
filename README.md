@@ -13,7 +13,7 @@ A simple example project can be installed from git:
 
 Assuming you already have node.js set up, steps to install are:
 
-1. Clone the repository: `git clone https://github.com/caseymcj/raspberrypi_node_camera_web_streamer`
+1. Clone the repository: `git clone https://github.com/nakuja/pi_stream`
 1. Restore dependencies by running `npm install` from within the folder of the repository
 1. Start the server by running `node index.js`
 1. Navigate to the site in a web browser by going to `http://<ip_address>:3000`
